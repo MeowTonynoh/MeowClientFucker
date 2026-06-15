@@ -7,7 +7,6 @@ Forensic analysis tool for Minecraft screenshare anticheat. Detects cheat client
 This tool reads process memory and DNS cache — behavior that antivirus software may flag as suspicious.
 
 - **VirusTotal and other antiviruses may report false positives**
-- The tool is completely safe — source code is publicly available for verification
 - Some antiviruses may block external file downloads: temporarily disable Real-Time Protection if needed
 
 ---
