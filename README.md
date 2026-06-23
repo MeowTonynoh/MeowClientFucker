@@ -134,7 +134,7 @@ It is normal for antivirus software to flag this tool. Technical reasons:
 3. **Elevated privileges** — UAC prompt triggers some heuristics
 4. **Obfuscated signatures** — detection strings are obfuscated to prevent bypass by cheat developers
 
-The source code is fully public for independent verification.
+The source code is fully private for and does not allow for independent verification.
 
 ---
 
